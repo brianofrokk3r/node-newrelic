@@ -1,0 +1,19 @@
+{
+  "name": "node-newrelic",
+  "version": "0.0.1",
+  "description": "Run the New Relic server monitor daemon on your Node.js Environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianofrokk3r/node-newrelic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianofrokk3r/node-newrelic/issues"
+  },
+  "homepage": "https://github.com/brianofrokk3r/node-newrelic"
+}
